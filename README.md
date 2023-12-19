@@ -1,4 +1,4 @@
-# festum_app
+# registration application with entry based
 
 A new Flutter project.
 
